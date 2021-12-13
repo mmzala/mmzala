@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm mmzala</h1>
+<h1 align="center">Hi 👋, I'm Marcin</h1>
 <h3 align="center">A passionate and motivated game programmer</h3>
 
 - 🔭 I’m currently working on [Quest For Redemption!](https://www.youtube.com/hashtag/questforredemption)
 
-- 🌱 I’m currently learning **DirectX11 and AI for game programming**
+- 🌱 I’m currently learning **DirectX11 and C++**
 
 <!-- - 👯 I’m looking to collaborate on **a fun Unity project** -->
 
