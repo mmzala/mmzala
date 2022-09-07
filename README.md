@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
 <h3 align="center">A passionate and motivated game programmer</h3>
 
-- 🔭 I’m currently working on [CoPilot Designer](https://www.talespin.com/copilot-designer) at [Talespin!](https://www.talespin.com/)
+<!-- - 🔭 I’m currently working on [CoPilot Designer](https://www.talespin.com/copilot-designer) at [Talespin!](https://www.talespin.com/) -->
 
-- 🌱 I’m currently learning **DirectX11 and C++**
+- 🌱 I’m currently learning **C++**
 
 <!-- - 👯 I’m looking to collaborate on **a fun Unity project** -->
 
